@@ -1,1 +1,1 @@
-# Projeto EcoGrid Plataforma Inteligentepara Redes de Energia Sustentveis.
+# Projeto EcoGrid Plataforma Inteligente para Redes de Energia Sustentveis.
